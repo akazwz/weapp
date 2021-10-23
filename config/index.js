@@ -40,7 +40,7 @@ const config = {
     h5: {
         publicPath: '/',
         staticDirectory: 'static',
-        esnextModules: ["@taroify"],
+        esnextModules: ["taro-ui"],
         postcss: {
             autoprefixer: {
                 enable: true,

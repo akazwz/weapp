@@ -1,9 +1,8 @@
-import {Button} from "@tarojs/components";
-
 const Index = () => {
-    return (
-        <Button>some</Button>
-    );
+  return (
+    <>
+    </>
+  )
 }
 
 export default Index

@@ -15,7 +15,7 @@ export default {
                 'iconPath': 'resource/us.png',
                 'selectedIconPath': 'resource/us-selected.png',
                 pagePath: 'pages/about/index',
-                text: '关于'
+                text: '我的'
             },
         ],
         'color': '#bfbfbf',
